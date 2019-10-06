@@ -1,0 +1,12 @@
+{
+
+  "user": "user",
+  "movie": "movie",
+  "movieDetail": "movieDetail",
+  "favorite": "favorite",
+
+  "toast": "toast",
+  "loading": "loading",
+  "error": "error",
+  "paginated": "paginated"
+}
